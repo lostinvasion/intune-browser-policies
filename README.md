@@ -76,3 +76,5 @@ Settings are largely aligned with the macOS counterpart.
 <img src="./images/2.png" alt="2">
 
 <img src="./images/3.png" alt="3">
+
+<img src="./images/4.png" alt="4">
