@@ -73,6 +73,6 @@ Settings are largely aligned with the macOS counterpart.
 
 
 # Result 
-<img src="./images/2.png" alt="2"">
+<img src="./images/2.png" alt="2">
 
 <img src="./images/3.png" alt="3">
