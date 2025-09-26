@@ -64,7 +64,7 @@ Find the BundleID:
 ---
 
 ## Windows
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png">
+<img height="50" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/png/windows-11.png">
 
 On Windows, browser management is configured using **Intune**.  
 Configuration profiles can be downloaded as **JSON templates** and imported into Intune.
