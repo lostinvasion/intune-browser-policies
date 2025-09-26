@@ -48,7 +48,7 @@ For Firefox, map `<key>install_url</key>` to a valid download location:
 # Deployment with Intune
 ## macOS
 <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png"> 
-On macOS, browsers are managed using local **plist** configuration files. These are write-protected by Intune by default and can be applied system-wide. Files can be found at `/Library/Managed Preferences`
+On macOS, browsers are managed using local .plist configuration files. These are write-protected by Intune by default and can be applied system-wide. Files can be found at `/Library/Managed Preferences`
 
 ### Deployment with Intune
 1. Create a configuration profile:  
