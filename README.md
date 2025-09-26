@@ -59,7 +59,7 @@ On macOS, browsers are managed using local .plist configuration files. These are
 Find the BundleID:
 `codesign -dv /path/to/application/`
 
-<img src="./images/1.png" alt="1" width="400">
+<img src="./images/1.png" alt="1">
 
 ---
 
