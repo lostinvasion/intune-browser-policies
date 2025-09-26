@@ -71,6 +71,8 @@ Configuration profiles can be downloaded as **JSON templates** and imported into
 
 Settings are largely aligned with the macOS counterpart.
 
+[Intune Template Download](https://github.com/lostinvasion/intune-browser-policies/blob/main/chrome-and-edge-policy-windows.json)
+
 
 # Result 
 <img src="./images/2.png" alt="2">
