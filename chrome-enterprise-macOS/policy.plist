@@ -1,0 +1,76 @@
+<key>ManagedBookmarks</key>
+<array>
+	<dict>
+		<key>toplevel_name</key>
+		<string>Company Managed Bookmarks</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Intranet Portal</string>
+		<key>url</key>
+		<string>https://intranet.example.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Project Management</string>
+		<key>url</key>
+		<string>https://projects.example.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Email & Apps</string>
+		<key>url</key>
+		<string>https://portal.office.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Knowledge Base</string>
+		<key>url</key>
+		<string>https://wiki.example.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Documentation</string>
+		<key>url</key>
+		<string>https://docs.example.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HR Portal</string>
+		<key>url</key>
+		<string>https://hr.example.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Helpdesk</string>
+		<key>url</key>
+		<string>https://support.example.com/</string>
+	</dict>
+</array>
+<key>ExtensionInstallForcelist</key>
+<array>
+	<!-- uBlock Origin Lite -->
+	<string>odfafepnkmbhccpbejgmiehpchacaeak;https://clients2.google.com/service/update2/crx</string>
+	<!-- Microsoft SSO Extension -->
+	<string>ddkjiahejlhfcafbddmgiahcphecmpfh;https://clients2.google.com/service/update2/crx</string>
+</array>
+<key>ExtensionManifestV2Availability</key>
+<integer>3</integer>
+<key>MetricsReportingEnabled</key>
+<false />
+<key>ForceGoogleSafeSearch</key>
+<true />
+<key>Platform</key>
+<string>Machine</string>
+<key>Mandatory</key>
+<true />
+<key>OKInsecureFormsWarningsEnabled</key>
+<true />
+<key>RelaunchNotification</key>
+<integer>2</integer>
+<key>DownloadRestrictions</key>
+<integer>4</integer>
+<key>PasswordLeakDetectionEnabled</key>
+<true />
+<key>ComponentUpdatesEnabled</key>
+<true />

@@ -1,0 +1,123 @@
+<key>EnterprisePoliciesEnabled</key>
+<true/>
+<key>AppAutoUpdate</key>
+<true/>
+<key>BackgroundAppUpdate</key>
+<true/>
+<key>HttpsOnlyMode</key>
+<string>force_enabled</string>
+<key>ExtensionSettings</key>
+<dict>
+  <key>uBlock0@raymondhill.net</key>
+  <dict>
+    <key>installation_mode</key>
+    <string>force_installed</string>
+    <key>install_url</key>
+    <string>https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi</string>
+  </dict>
+</dict>
+<key>ExtensionUpdate</key>
+<true/>
+<key>FirefoxHome</key>
+<dict>
+  <key>Search</key>
+  <true/>
+  <key>TopSites</key>
+  <true/>
+  <key>SponsoredTopSites</key>
+  <false/>
+  <key>Highlights</key>
+  <false/>
+  <key>Pocket</key>
+  <false/>
+  <key>SponsoredPocket</key>
+  <false/>
+  <key>Snippets</key>
+  <false/>
+  <key>WebSuggestions</key>
+  <true/>
+  <key>SponsoredSuggestions</key>
+  <false/>
+  <key>ImproveSuggest</key>
+  <false/>
+  <key>Locked</key>
+  <true/>
+</dict>
+<key>MicrosoftEntraSSO</key>
+<true/>
+<key>NoDefaultBookmarks</key>
+<true/>
+<key>DisableProfileImport</key>
+<true/>
+<key>DisableTelemetry</key>
+<true/>
+<key>DisablePocket</key>
+<true/>
+<key>UserMessaging</key>
+<dict>
+  <key>ExtensionRecommendations</key>
+  <false/>
+  <key>FeatureRecommendations</key>
+  <false/>
+  <key>SkipOnboarding</key>
+  <true/>
+  <key>MoreFromMozilla</key>
+  <false/>
+  <key>FirefoxLabs</key>
+  <false/>
+  <key>Locked</key>
+  <true/>
+</dict>
+<key>OverrideFirstRunPage</key>
+<string></string>
+<key>OverridePostUpdatePage</key>
+<string></string>
+<key>ManagedBookmarks</key>
+<array>
+  <dict>
+    <key>toplevel_name</key>
+    <string>Company Managed Bookmarks</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Project Management</string>
+    <key>url</key>
+    <string>https://projects.example.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Email & Apps</string>
+    <key>url</key>
+    <string>https://portal.office.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>SharePoint</string>
+    <key>url</key>
+    <string>https://sharepoint.example.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Knowledge Base</string>
+    <key>url</key>
+    <string>https://wiki.example.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Documentation</string>
+    <key>url</key>
+    <string>https://docs.example.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>HR Portal</string>
+    <key>url</key>
+    <string>https://hr.example.com/</string>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>IT Helpdesk</string>
+    <key>url</key>
+    <string>https://support.example.com/</string>
+  </dict>
+</array>
