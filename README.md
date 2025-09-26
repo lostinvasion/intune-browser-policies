@@ -59,6 +59,14 @@ On macOS, browsers are managed using local .plist configuration files. These are
 Find the BundleID:
 `codesign -dv /path/to/application/`
 
+>### ⚠️ Note on macOS Preferences Deployment
+>When deploying **Preferences (.plist files)** via Intune:
+>- Do not include `<dict>` or `<plist>` tags  
+>- Remove the XML header entirely  
+>- Only `<key>` tags should be present directly in the file  
+ 
+ >**VSCode** or **Xcode** might not display or recognize these files correctly when formatted this way, but this is required for Intune deployment.
+
 <img src="./images/1.png" alt="1">
 
 ---
